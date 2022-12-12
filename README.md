@@ -14,3 +14,10 @@ Loading Screen             |  Game Screen
 
 ###### Technologies Used:
 
+* Photon PUN
+* Spawning and Syncing Movement
+* Scoring
+* UI/Elements
+* Enemy Damage
+* Pickups/Powerups
+* Game Lobby
