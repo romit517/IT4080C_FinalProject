@@ -12,7 +12,7 @@ Loading Screen             |  Game Screen
 ![My_Image](loading_screen.PNG)  |  ![My_Image](game_screen.PNG)
 
 
-###### Technologies Used:
+#### Technologies Used:
 
 * Photon PUN
 * Spawning and Syncing Movement
