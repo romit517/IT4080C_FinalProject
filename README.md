@@ -10,3 +10,7 @@ However, the long-lost brothers are equipped with a set of supernatural powers t
 Loading Screen             |  Game Screen
 :-------------------------:|:-------------------------:
 ![My_Image](loading_screen.PNG)  |  ![My_Image](game_screen.PNG)
+
+
+###### Technologies Used:
+
